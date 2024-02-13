@@ -1,0 +1,11 @@
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\bin\Debug\net7.0\CantariniAutoRental.Shared.deps.json
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\bin\Debug\net7.0\CantariniAutoRental.Shared.dll
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\bin\Debug\net7.0\CantariniAutoRental.Shared.pdb
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\obj\Debug\net7.0\CantariniAutoRental.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\obj\Debug\net7.0\CantariniAutoRental.Shared.AssemblyInfoInputs.cache
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\obj\Debug\net7.0\CantariniAutoRental.Shared.AssemblyInfo.cs
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\obj\Debug\net7.0\CantariniAutoRental.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\obj\Debug\net7.0\CantariniAutoRental.Shared.dll
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\obj\Debug\net7.0\refint\CantariniAutoRental.Shared.dll
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\obj\Debug\net7.0\CantariniAutoRental.Shared.pdb
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Shared\obj\Debug\net7.0\ref\CantariniAutoRental.Shared.dll
