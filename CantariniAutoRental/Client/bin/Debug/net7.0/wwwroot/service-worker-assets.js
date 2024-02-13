@@ -885,15 +885,15 @@
       "url": "_framework\/CantariniAutoRental.Shared.pdb"
     },
     {
-      "hash": "sha256-8QXpVwV8zhXWriGyBeNqoLqkhKepO4RBLSu0GoNbmDM=",
+      "hash": "sha256-4afoAZghlw3DqMnGEspFq7m1FARtlVOsSleFQCJW7\/0=",
       "url": "_framework\/CantariniAutoRental.Client.dll"
     },
     {
-      "hash": "sha256-6b4uPgdc1NqRS0Eldzvpg5LhW6tEIAuDPmHfgfWmMEs=",
+      "hash": "sha256-8VEdiLIsmzwgK0y0ZC6ughArciwCsdnon\/GwGCiTuFc=",
       "url": "_framework\/CantariniAutoRental.Client.pdb"
     },
     {
-      "hash": "sha256-tUIfxMUG\/zc8LKH3QFXfUZ6Keuk71h4Vpf0Ri8U5bZk=",
+      "hash": "sha256-go2HG6Xfu8a0ll\/2vHNI66\/s4lj8KHxx1ledL7vKk\/0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -901,5 +901,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "\/71AKsbt"
+  "version": "A9tJAQfo"
 };

@@ -1,7 +1,7 @@
 {
   "entryAssembly": "CantariniAutoRental.Client",
   "resources": {
-    "hash": "sha256-+twk1XPc7JHw66S8mSpVSeW6G2i9FuWUGC0fRea7swA=",
+    "hash": "sha256-TyShqjQo43jNO4cjkJ6ydNf6o4u1n34QP1hy1lbXJDQ=",
     "runtime": {
       "dotnet.7.0.15.v169dk0umt.js": "sha256-MHuxwxeVFybuBBTAWeZrvoStZpW+H4ThSaRcFvrfqXM=",
       "dotnet.timezones.blat": "sha256-aHk3Pm2JXopn6UPLJtovAqIdIk8GyIMzGm450cli9UE=",
@@ -206,11 +206,11 @@
       "netstandard.dll": "sha256-ohOFXxRJKiyPbitdA1y5ebD9fSAGELDRVmhDM2nVdtA=",
       "System.Private.CoreLib.dll": "sha256-7Y6AhJbgMptcdman3NtSEbcJV520wGmyxB8QvZwrUmc=",
       "CantariniAutoRental.Shared.dll": "sha256-2egC5qb7J96RNKjPbcK9RszXRN7/AXsnregFl3+EOYQ=",
-      "CantariniAutoRental.Client.dll": "sha256-xRYkxkoP359WuWYiAv4miKZvWwyfAq6dShiYtXKZvRY="
+      "CantariniAutoRental.Client.dll": "sha256-fxzAR2etWreNzFK6IjiMvhtkCUqkumL0yrU2IeNBxYE="
     },
     "pdb": {
       "CantariniAutoRental.Shared.pdb": "sha256-SHdegd85n1z+GPJ5pyYk1JyVAUdekeu9V9+ZlM1EPxI=",
-      "CantariniAutoRental.Client.pdb": "sha256-Xp6U0NiFyK4YhiuM7c3G14z0e/pw9koZkTDYDjydcGc="
+      "CantariniAutoRental.Client.pdb": "sha256-fnVvrptPH6ne/H5mOXqEwGD+AMrCvJJHJaEQOAdt10U="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
