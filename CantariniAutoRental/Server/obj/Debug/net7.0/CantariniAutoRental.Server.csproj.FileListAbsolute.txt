@@ -118,3 +118,4 @@ C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\Cantarin
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Server\obj\Debug\net7.0\CantariniAutoRental.Server.pdb
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Server\obj\Debug\net7.0\CantariniAutoRental.Server.genruntimeconfig.cache
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Server\obj\Debug\net7.0\ref\CantariniAutoRental.Server.dll
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Server\obj\Debug\net7.0\CantariniAutoRental.Server.sourcelink.json

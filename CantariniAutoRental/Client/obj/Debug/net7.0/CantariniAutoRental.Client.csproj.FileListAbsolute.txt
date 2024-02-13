@@ -849,3 +849,4 @@ C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\Cantarin
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Client\obj\Debug\net7.0\refint\CantariniAutoRental.Client.dll
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Client\obj\Debug\net7.0\CantariniAutoRental.Client.pdb
 C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Client\obj\Debug\net7.0\ref\CantariniAutoRental.Client.dll
+C:\Users\Gabriela\Desktop\Cantarini\Gabriela\2022TI\CantariniAutoRental\CantariniAutoRental\Client\obj\Debug\net7.0\CantariniAutoRental.Client.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CantariniAutoRental.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec969337742836717b077305401535d49c1837e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CantariniAutoRental.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CantariniAutoRental.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
